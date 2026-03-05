@@ -5,3 +5,4 @@ Deep Learning Lab Assignments
 3) Multiple Linear Regression using a Linear Perceptron - DL3_SalaryPrediction
 4) Linear Regression Neuron: Learning by Gradient Descent - DL4_Abalone 
 5) Learning to Bend a Model: DL5_BendingModel
+6) Numbers to vision: DL6_NumbersToVision
